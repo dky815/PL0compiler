@@ -81,19 +81,24 @@ UI界面使用WinForm实现，错误处理部分参考了《编译原理及编�
 **测试流程（使用方法）：**
 
  先点击菜单栏的文件按钮，选择打开一个PL/0源代码文件。
+ 
 ![001](https://github.com/dky815/PL0compiler/blob/master/image001.png)
 
 然后点击生成按钮下拉选择编译：
+
 ![002](https://github.com/dky815/PL0compiler/blob/master/image002.png)
 
 可以看到编译结果（如果有错误会提示错误类型和位置）：
-![003](https://github.com/dky815/PL0compiler/blob/master/image001.png)
+
+![003](https://github.com/dky815/PL0compiler/blob/master/image003.png)
 
 之后点击生成按钮下拉选择生成，就会生成相应的P-Code：
-![004](https://github.com/dky815/PL0compiler/blob/master/image001.png)
+
+![004](https://github.com/dky815/PL0compiler/blob/master/image004.png)
 
 最后点击生成按钮下拉选择运行可看到运行的结果：
-![005](https://github.com/dky815/PL0compiler/blob/master/image001.png)
+
+![005](https://github.com/dky815/PL0compiler/blob/master/image005.png)
 
 **感想总结：**
 
