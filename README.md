@@ -9,37 +9,69 @@ The UI interface is implemented using WinForm. For the error handling part, refe
 ## Error list：
 
              errors.Add(1, "The \"=\" in the constant description is written as \":=\"");
+             
              errors.Add(2, "The \"=\" in the constant description should be followed by a number");
+             
              errors.Add(3, "The identifier in the constant description should be \"=\"");
+             
              errors.Add(4, "const, var, procedure should be followed by an identifier");
+             
              errors.Add(5, "Missing \',\' or \';\'");
+             
              errors.Add(6, "The symbol after the process description is incorrect (should be a statement start character, or a process definer");
+             
              errors.Add(7, "Should be a statement start character");
+             
              errors.Add(8, "The following character of the statement part in the program body is incorrect");
+             
              errors.Add(9, "Missing a period at the end of the program\'.\'");
+             
              errors.Add(10, "\';\'");
+             
              errors.Add(11, "Identifier not specified");
+             
              errors.Add(12, "In the assignment statement, the identifier attribute on the left of the assignment number should be a variable");
+             
              errors.Add(13, "The left identifier of the assignment statement should be followed by the assignment number \':=\'");
+             
              errors.Add(14, "The call should be followed by an identifier");
+             
              errors.Add(15, "Identifier property after call should be procedure");
+             
              errors.Add(16, "Missing \'then\' in the conditional statement");
+             
              errors.Add(17, "Missing \'end\' or \';\'");
+             
              errors.Add(18, "\'do\' is missing in the while loop statement");
+             
              errors.Add(19, "The symbol after the statement is incorrect");
+             
              errors.Add(20, "Should be a relational operator");
+             
              errors.Add(21, "Identifier attributes in expressions cannot be procedures");
+             
              errors.Add(22, "Missing the closing parenthesis\')\'");
+             
              errors.Add(23, "Illegal symbol after factor");
+             
              errors.Add(24, "The beginning character of the expression cannot be this symbol");
+             
              errors.Add(25, "There is no until in the repeat loop statement");
+             
              errors.Add(26, "The program hierarchy exceeds the limit");
+             
              errors.Add(30, "The number is too long");
+             
              errors.Add(31, "Number out of bounds");
+             
              errors.Add(32, "The identifier in the brackets of the read statement is not a variable");
+             
              errors.Add(33, "The statement misses the left bracket\'(\'");
+             
              errors.Add(34, "The statement misses the closing bracket\')\'");
+             
              errors.Add(35, "The read statement lacks variables");
+             
              errors.Add(36, "A character appears outside the program body");
 
 ## pCpde list：
