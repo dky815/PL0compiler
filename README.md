@@ -42,7 +42,7 @@ The UI interface is implemented using WinForm. For the error handling part, refe
              errors.Add(35, "The read statement lacks variables");
              errors.Add(36, "A character appears outside the program body");
 
-## pCpde list
+## pCode list
 
  lit, lod, sto, cal, Int, jmp, jpc, opr
 
